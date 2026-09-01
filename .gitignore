@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Cache de datasets do scikit-learn (o MNIST é baixado aqui, não versionar)
+scikit_learn_data/
+
+# Sistema
+.DS_Store
+Thumbs.db
