@@ -79,7 +79,8 @@ O KNN, competitivo no teste, degradou fortemente fora da distribuição de trein
 
 ## 7. Vídeo de demonstração
 
-_(link do Google Drive — modo leitor para qualquer pessoa com o link — a ser incluído)_
+https://drive.google.com/file/d/1s_69Zr99IVag8fHIaKD-MRdnojqxwdId/view?usp=drive_link
+
 
 ## Autor
 
